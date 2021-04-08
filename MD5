@@ -1,9 +1,9 @@
-e389a37a1b531f0a48857d2f2eb81e5f *DESCRIPTION
-cdb7128ddf3715261828aa910e4fd887 *NAMESPACE
+b05d27deec7014df02db340be6abb73c *DESCRIPTION
+60301ef3c26bc9d423fe8eeda008247d *NAMESPACE
 8bc825ca088d7d4aa9d8051758bfa572 *NEWS.md
-2a804445c85aab3dd47df7df8dcf0e80 *R/Stratified_percentile_calculator.R
-3b98dd61c9e6b0996afeae17a0792907 *R/calculate_percentiles.R
+09c38df5f07bd34c2e04048cbf01313b *R/Stratified_percentile_calculator.R
+020197b6f00149314f932cc9d6617757 *R/calculate_percentiles.R
 658a81dc18c0683faf4dc800c0315220 *README.md
 b664a55b0bd016e0347c2a3cc52ae537 *man/Stratified_percentile_calculator_generator.Rd
 db880f9f5e13e849f2c00d9e589659a4 *man/calculate_percentiles.Rd
-16d27ce854fecb5bb3b8ae1df335cf67 *man/calculate_stratified_percentiles.Rd
+f21bb56517c64b7b678cf4a2a4152dc5 *man/calculate_stratified_percentiles.Rd
